@@ -1,3 +1,0 @@
-Welcome to Python File Handling.
-This is line two .
-This line is appended.
